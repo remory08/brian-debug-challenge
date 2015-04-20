@@ -1,0 +1,48 @@
+header {
+  color: white;
+  opacity: .7;
+    float:left;
+    width: 100%;
+    list-style-type: none;
+    text-decoration-line: none;
+}
+
+* {font-family: "Century Gothic","Lucida Grande",Arial,sans-serif;}
+
+body {background:url("http://www.hdwallpapersinn.com/wp-content/uploads/2015/02/Black-Grey-Background.jpg")fixed; 
+    text-align: center;
+}
+nav{
+    position: fixed;
+    color: black;
+    opacity: .4;
+    
+}
+ul { 
+    float:left;
+
+    }
+nav ul li{
+ list-style-type: none;
+    color:#000;
+    text-decoration: none;
+    display: inline;
+    z-index: 5;
+    padding:10px;
+    opacity: 1;
+    
+}
+#hero {
+    min-height: 850px;
+    margin-top: 10%;
+
+}
+hero p1{
+}
+
+#second{font-size:20px;margin-left:20%;margin-right:20%;}
+second p2{}
+dance{font-size: 40px;}
+third
+#third p3 {font-size:60px;}
+ol li {font-size: 40px;}
